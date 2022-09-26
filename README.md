@@ -4,9 +4,6 @@
 
 ---
 
-
-<!-- <a target="_blank" href="mailto:ankitoct01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> -->
-
 <!-- <a href="https://www.linkedin.com/in/ankitgoel25/" target="_blank">
   <img align="left" alt="Ankit's LinkedIn" title="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -32,7 +29,7 @@ Hi, I'm Ankit Goel, a final year student pursuing B.Tech at MAIT. I am a Softwar
 - 👨🏽‍💻 Completed multiple internships as the Frontend and Software Developer.
 - 🧲 I love building beautiful frontend designs and up for CSS Battle anytime.
 - ⚒️ I also do [freelancing](http://lnkiy.in/ray_space). If you have something for me. Ping me!
-- 🌱 I’m currently exploring web3 domain and strengthening my problem solving skils.
+- 🌱 I’m currently exploring web3 domain and strengthening my problem solving skills.
 - 💬 Ask me about anything, I am happy to help!
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [Click here](https://www.linkedin.com/in/ankitgoel25/)
@@ -41,6 +38,7 @@ Hi, I'm Ankit Goel, a final year student pursuing B.Tech at MAIT. I am a Softwar
 #### 🤝 Contact me @
 <a target="_blank" href="https://www.linkedin.com/in/ankitgoel25/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/ankitgoel_25"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ankitoct01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 #### Languages and Tools:
 
